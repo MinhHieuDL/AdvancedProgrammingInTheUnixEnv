@@ -1,0 +1,2 @@
+I create this repo as a project base learning during the time i read "Advanced programming in the Unix environment - W.Richard Stevens & Stephen A.Rago"
+This is the first book i choose to read on the training jouney to become an linux embedded engineer
